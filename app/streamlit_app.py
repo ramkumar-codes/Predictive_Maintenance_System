@@ -57,3 +57,5 @@ if st.button('Predict Maintenance Condition'):
 # Footer
 st.markdown('---')
 st.caption('Developed as part of CNC Machine Predictive Maintenance MLOps Project')
+
+
