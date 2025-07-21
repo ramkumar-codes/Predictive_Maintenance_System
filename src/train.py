@@ -122,6 +122,7 @@ def main():
         f"  mlflow ui --backend-store-uri {base_path}/mlruns\n"
         f"under run ID {run_id}"
     )
+    #successfully implemented logging and model saving
 
 
 if __name__ == '__main__':
