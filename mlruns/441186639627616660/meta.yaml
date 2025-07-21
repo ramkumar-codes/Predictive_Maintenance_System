@@ -1,0 +1,6 @@
+artifact_location: file:///home/runner/work/Predictive_Maintenance_System/Predictive_Maintenance_System/mlruns/441186639627616660
+creation_time: 1753108013397
+experiment_id: '441186639627616660'
+last_update_time: 1753108013397
+lifecycle_stage: active
+name: CNC_Maintenance_MLP_Multiclass

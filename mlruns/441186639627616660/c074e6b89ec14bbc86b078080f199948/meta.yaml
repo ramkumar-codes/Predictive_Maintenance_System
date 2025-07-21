@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/Predictive_Maintenance_System/Predictive_Maintenance_System/mlruns/441186639627616660/c074e6b89ec14bbc86b078080f199948/artifacts
+end_time: 1753108018131
+entry_point_name: ''
+experiment_id: '441186639627616660'
+lifecycle_stage: active
+run_id: c074e6b89ec14bbc86b078080f199948
+run_name: sedate-loon-339
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753108013433
+status: 3
+tags: []
+user_id: runner

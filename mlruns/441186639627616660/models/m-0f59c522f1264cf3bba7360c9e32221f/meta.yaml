@@ -1,0 +1,10 @@
+artifact_location: file:///home/runner/work/Predictive_Maintenance_System/Predictive_Maintenance_System/mlruns/441186639627616660/models/m-0f59c522f1264cf3bba7360c9e32221f/artifacts
+creation_timestamp: 1753108016094
+experiment_id: '441186639627616660'
+last_updated_timestamp: 1753108018128
+model_id: m-0f59c522f1264cf3bba7360c9e32221f
+model_type: null
+name: mlp_multiclass_model
+source_run_id: c074e6b89ec14bbc86b078080f199948
+status: 2
+status_message: null
