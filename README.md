@@ -5,6 +5,7 @@ It uses a synthetic industrial dataset of sensor readings and applies a Multi-La
 The project demonstrates best practices in data handling, model tracking, deployment, and CI/CD.
 
 ---
+## Access the Repo in Streamlit: https://predictivemaintenancesystem-mncferaxwuya9ajzyshst9.streamlit.app/
 
 ## 🔍 Project Overview
 
