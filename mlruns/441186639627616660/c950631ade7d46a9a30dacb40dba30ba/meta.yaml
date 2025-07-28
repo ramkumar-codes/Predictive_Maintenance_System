@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/Predictive_Maintenance_System/Predictive_Maintenance_System/mlruns/441186639627616660/c950631ade7d46a9a30dacb40dba30ba/artifacts
+end_time: 1753675675877
+entry_point_name: ''
+experiment_id: '441186639627616660'
+lifecycle_stage: active
+run_id: c950631ade7d46a9a30dacb40dba30ba
+run_name: luxuriant-croc-546
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753675670997
+status: 3
+tags: []
+user_id: runner
