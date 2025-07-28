@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/Predictive_Maintenance_System/Predictive_Maintenance_System/mlruns/441186639627616660/70822e241bfd481ea305a4f486a5ef35/artifacts
+end_time: 1753676459441
+entry_point_name: ''
+experiment_id: '441186639627616660'
+lifecycle_stage: active
+run_id: 70822e241bfd481ea305a4f486a5ef35
+run_name: awesome-quail-338
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753676454801
+status: 3
+tags: []
+user_id: runner
